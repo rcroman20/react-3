@@ -4,13 +4,7 @@ import { getAuth, GoogleAuthProvider, deleteUser, signInWithEmailAndPassword, re
 import { getFirestore } from "https://www.gstatic.com/firebasejs/9.17.2/firebase-firestore.js";  // Solo Firestore
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAzIeivflovvsTTea6MMHlQx2ty0xLtFA4",
-  authDomain: "tracker-budget.firebaseapp.com",
-  databaseURL: "https://tracker-budget-default-rtdb.firebaseio.com",
-  projectId: "tracker-budget",
-  storageBucket: "tracker-budget.firebasestorage.app",
-  messagingSenderId: "187543858368",
-  appId: "1:187543858368:web:11747767a5263f69ed5125"
+  apiKey
 };
 
 // Inicializar Firebase
