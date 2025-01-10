@@ -17,4 +17,4 @@ const provider = new GoogleAuthProvider();
 // Inicializar Firestore
 const db = getFirestore(app);  // Asegúrate de inicializar Firestore
 
-export { auth, provider, db, deleteUser, signInWithEmailAndPassword, reauthenticateWithPopup };  // Exporta las funciones necesarias
+export { auth, provider, db, deleteUser, signInWithEmailAndPassword, reauthenticateWithPopup , };  // Exporta las funciones necesarias

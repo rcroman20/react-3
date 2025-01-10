@@ -1,0 +1,13 @@
+.about{
+    margin: 10% 5%;
+}
+
+.about h2{
+    font-size: 2rem;
+}
+
+.about p{
+    font-size: 16px;
+    color: #000;
+    align-content: justify;
+}
